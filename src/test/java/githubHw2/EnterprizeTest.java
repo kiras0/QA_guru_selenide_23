@@ -1,4 +1,4 @@
-package GithubHw2;
+package githubHw2;
 
 
 import com.codeborne.selenide.Condition;

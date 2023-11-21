@@ -1,4 +1,4 @@
-package dragAndDropTest;
+package dragdroptest;
 
 
 import org.junit.jupiter.api.Test;
